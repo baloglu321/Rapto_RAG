@@ -43,11 +43,11 @@ graph TB
     
     M --> P
     
-    style A fill:#e1f5ff
-    style G fill:#fff3cd
-    style K fill:#d4edda
-    style M fill:#f8d7da
-    style S fill:#d1ecf1
+    style A fill:#e1f5ff,stroke:#333,stroke-width:2px,color:#000
+    style G fill:#fff3cd,stroke:#333,stroke-width:2px,color:#000
+    style K fill:#d4edda,stroke:#333,stroke-width:2px,color:#000
+    style M fill:#f8d7da,stroke:#333,stroke-width:2px,color:#000
+    style S fill:#d1ecf1,stroke:#333,stroke-width:2px,color:#000
 ```
 
 ## 🚀 Features
